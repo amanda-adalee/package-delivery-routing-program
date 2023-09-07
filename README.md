@@ -13,4 +13,4 @@ Python 3.6.2 <br>
 PyCharm Community Edition 2020.3.3 (IDE)
 
 ## Author
-Amanda Arreola, aarreo3@wgu.edu
+Amanda Arreola
